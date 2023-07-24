@@ -1,7 +1,10 @@
 How to run:
+### Migrate
 Migrate: cd backend && npm run migrate
-Start back-end: cd backend && npm run start
-Start front-end: cd frontend && npm run dev
+### Start back-end
+cd backend && npm run start
+### Start front-end
+cd frontend && npm run dev
 
 You should be able to find dummy users list in backend/src/db/user.ts
 
